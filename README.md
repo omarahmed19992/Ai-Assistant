@@ -22,4 +22,4 @@
       
 
 
-- 🌱 If you want to take further step, I recommened to use Agents from [Langchain](https://python.langchain.com/v0.1/docs/modules/agents/) or if you wanna no code , you can use [n8n](https://n8n.io/?ps_partner_key=YmlubmJiMTAzMQ&ps_xid=qQ6UJwuXrxq8WA&gsxid=qQ6UJwuXrxq8WA&gspk=YmlubmJiMTAzMQ&gad_source=1&gclid=Cj0KCQiAsOq6BhDuARIsAGQ4-zihcGvxxCwXLBcby3hHVD7BvEvOmtmkYTbsrTlsm9tmSUczJsBjVhgaAuu7EALw_wcB) tool 
+- 🌱 If you want to take further step, I recommend to use Agents from [Langchain](https://python.langchain.com/v0.1/docs/modules/agents/) or if you wanna no code , you can use [n8n](https://n8n.io/?ps_partner_key=YmlubmJiMTAzMQ&ps_xid=qQ6UJwuXrxq8WA&gsxid=qQ6UJwuXrxq8WA&gspk=YmlubmJiMTAzMQ&gad_source=1&gclid=Cj0KCQiAsOq6BhDuARIsAGQ4-zihcGvxxCwXLBcby3hHVD7BvEvOmtmkYTbsrTlsm9tmSUczJsBjVhgaAuu7EALw_wcB) tool 
