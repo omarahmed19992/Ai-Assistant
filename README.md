@@ -4,7 +4,7 @@
 </h3>
 
 
-- 🌱 If you want to explore and practice more on Ai Assistance. here, you can find how to implement it using basics libraries to automate your tasks like send email, search, take notes and save important informations 
+- 🌱 If you want to explore and practice more on Ai Assistance. here, you can find how to implement it using basics libraries to automate your tasks like send email, search, take notes and save important information
 
 - ### 🔭 I used Libs like:
 
